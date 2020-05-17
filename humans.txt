@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Japjot japjot@git.training @japjot
 
 # THANKS
 
