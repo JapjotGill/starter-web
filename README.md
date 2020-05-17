@@ -8,4 +8,6 @@ Sample website with plenty of files for demos
 
 Editing something 
 
+Adding some text to see merging conflicts
+
 2014 Git.Training
