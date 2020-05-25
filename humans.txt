@@ -6,7 +6,7 @@
     Japjot japjot@git.training @japjot
 
 # THANKS
-
+All my students!
     <name>
 
 # TECHNOLOGY COLOPHON
